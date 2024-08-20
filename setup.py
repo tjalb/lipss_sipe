@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="lipss_sipe",
-    version="0.58",
+    version="0.59",
     packages=find_packages(),
     # required packages
     install_requires=["numpy", "matplotlib", "tqdm"],

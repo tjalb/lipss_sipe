@@ -627,7 +627,7 @@ def plot_eta(ETA, KAPPA_X, KAPPA_Y):
     ax1.plot(
         KAPPA_X[np.where(KAPPA_X == 0)[0][0] :],
         ETA[np.where(KAPPA_X == 0)[0][0] :, np.where(KAPPA_X == 0)[0][0]],
-        label=f"$\psi=0°$",
+        label=f"$\phi=0°$",
     )
     if is_square(ETA):
         zero_x_index = np.where(KAPPA_X == 0)[0][0]
@@ -636,12 +636,12 @@ def plot_eta(ETA, KAPPA_X, KAPPA_Y):
         ax1.plot(
             KAPPA_X[:] * scale_factor,
             diagonal,
-            label=f"$\psi=45°$",
+            label=f"$\phi=45°$",
         )
     ax1.plot(
         KAPPA_Y[np.where(KAPPA_Y == 0)[0][0] :],
         ETA[np.where(KAPPA_Y == 0)[0][0], np.where(KAPPA_Y == 0)[0][0] :],
-        label=f"$\psi=90°$",
+        label=f"$\phi=90°$",
     )
     ax1.set_xlabel("$\kappa$", fontsize=20)
     ax1.set_ylabel("$\eta$", fontsize=20)

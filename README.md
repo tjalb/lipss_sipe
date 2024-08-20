@@ -72,7 +72,7 @@ This work was funded by the Deutsche Forschungsgemeinschaft (DFG, German Researc
 
 <a id="1">[1]</a> Bonse, J., Munz, M., Sturm, H. (2005). Structure formation on the surface of indium phosphide irradiated by femtosecond laser pulses. Journal of Applied Physics, 97(1), 013538. [DOI: 10.1063/1.1827919](https://doi.org/10.1063/1.1827919)
 
-<a id="2">[2]</a> Kaczmarek, D., Albert, T. J., Bonse, Munz, M., Sturm, H., J., Erratum: "Structure formation on the surface of indium phosphide irradiated by femtosecond laser pulses". [DOI:10.1063/5.0222903](https://doi.org/10.1063/5.0222903)
+<a id="2">[2]</a> Kaczmarek, D., Albert, T. J., Bonse, Munz, M., Sturm, H., J., Erratum: "Structure formation on the surface of indium phosphide irradiated by femtosecond laser pulses" [J. Appl. Phys. 97, 013538 (2005)]. Journal of Applied Physics, 136(4), 049903. [DOI:10.1063/5.0222903](https://doi.org/10.1063/5.0222903)
 
 <a id="3">[3]</a> Sipe, J. E., Young, J. F., Preston, J. S., & van Driel, H. M. (1983). Laser-induced periodic surface structure. I. Theory. Physical Review B, 27(2), 1141–1154. [DOI: 10.1103/PhysRevB.27.1141](https://doi.org/10.1103/PhysRevB.27.1141)
 
